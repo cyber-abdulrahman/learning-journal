@@ -1,6 +1,3 @@
-<img width="2276" height="1183" alt="image" src="https://github.com/user-attachments/assets/0c8872c7-d60f-4fd5-800a-06754f8b0d69" /># Linux Basics
-
-## Session 1
 
 Today I installed Ubuntu in a VirtualBox virtual machine and practiced some basic Linux commands.
 
