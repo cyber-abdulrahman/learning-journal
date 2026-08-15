@@ -95,8 +95,6 @@ The file was empty, so no output was displayed.
 
 ---
 
----
-
 # Shell and Bash Fundamentals
 
 After learning the basic Linux command line, I started learning more about the shell and using Bash for scripting and automation.
