@@ -2,10 +2,10 @@
 
 ## About Me
 
-AI and Cybersecurity student at KFUPM with interests in computer science, cybersecurity, AI, Machine Learning, Linux, networking, and software development.
+AI and Cybersecurity student at KFUPM with interests in computer science, machine learning, cybersecurity, Linux, networking, and software development.
 ## Purpose
 
-This repository documents my learning journey through computer science, cybersecurity, programming, and related technologies.
+This repository documents my learning journey across machine learning, cybersecurity, programming, Linux, networking, and related technologies.
 
 ## Current Focus
 
@@ -13,6 +13,7 @@ This repository documents my learning journey through computer science, cybersec
 - Networking
 - Python
 - Cybersecurity Fundamentals
+- Machine Learning
 
 ## Repository Structure
 
@@ -20,4 +21,5 @@ This repository documents my learning journey through computer science, cybersec
 - Networking
 - Python
 - Cybersecurity
+- Machine-Learning
 - Projects
